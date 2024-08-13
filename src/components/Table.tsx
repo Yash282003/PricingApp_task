@@ -45,13 +45,13 @@ export default function BasicTable() {
       >
         <TableHead sx={{ backgroundColor: "#6366f1" }}>
           <TableRow sx={{ borderBottom: "2px solid transparent" }}>
-            <TableCell sx={{ color: "#e2e8f0", fontWeight: "600" }}>
+            <TableCell sx={{ color: "#e2e8f0", fontWeight: "600", fontSize: { xs: "0.75rem", sm: "0.85rem", md: "0.9rem" }, }}>
               API
             </TableCell>
-            <TableCell sx={{ color: "#e2e8f0", fontWeight: "600" }}>
+            <TableCell sx={{ color: "#e2e8f0", fontWeight: "600", fontSize: { xs: "0.75rem", sm: "0.85rem", md: "0.9rem" }, }}>
               MODEL
             </TableCell>
-            <TableCell sx={{ color: "#e2e8f0", fontWeight: "600" }}>
+            <TableCell sx={{ color: "#e2e8f0", fontWeight: "600", fontSize: { xs: "0.75rem", sm: "0.85rem", md: "0.9rem" }, }}>
               PRICE PER 1K TOKENS
             </TableCell>
           </TableRow>
