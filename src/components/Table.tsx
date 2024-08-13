@@ -49,10 +49,10 @@ export default function BasicTable() {
               API
             </TableCell>
             <TableCell sx={{ color: "#e2e8f0", fontWeight: "600" }}>
-              Model
+              MODEL
             </TableCell>
             <TableCell sx={{ color: "#e2e8f0", fontWeight: "600" }}>
-              Price per 1K tokens
+              PRICE PER 1K TOKENS
             </TableCell>
           </TableRow>
         </TableHead>
